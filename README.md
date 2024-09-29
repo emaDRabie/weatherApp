@@ -1,3 +1,3 @@
 # Weather App
 
-![UI login](myApp.gif)
+![UI home](myApp.gif)
